@@ -198,6 +198,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+
 }
 
 svg {
@@ -207,6 +208,7 @@ svg {
 
 table {
   border-collapse: collapse;
+  height: 100%;
 }
 
 caption {
