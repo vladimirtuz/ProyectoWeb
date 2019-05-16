@@ -1,0 +1,31 @@
+body {
+ /*background-image: url("../img/tecNM.JPG");
+ background-repeat: no-repeat;
+ background-position: top;*/
+}
+
+.login {
+  text-align: right;
+  padding-top: 2%; 
+}
+
+.tarjeta-proyecto {
+	background-color:rgba(170,243,123,.3);
+	margin:1%;
+
+}
+
+.btn_ver{
+	text-align: center;
+	height: 50px;
+	width: 150px;
+	border-radius: 12px;
+	background-color:#5DADE2;
+	color:#fff;
+	font-family: fantasy;
+}
+
+.btn_ver:hover{
+	background-color:#F2F3F4;
+	color:black;
+}
